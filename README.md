@@ -1,0 +1,2 @@
+# NewsGetter
+Aggregator.
